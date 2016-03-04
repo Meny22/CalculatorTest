@@ -3,7 +3,7 @@
  */
 public class Calculate {
     
-    public static void main(String[] args) {
+    public static vod main(String[] args) {
         
     }
 }
